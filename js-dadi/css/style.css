@@ -1,0 +1,22 @@
+main{
+    background-color: red;
+}
+
+.dice{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    opacity: 0;
+}
+
+.point-row{
+    height: 10px;
+}
+
+.point{
+    opacity: 0;
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    border-radius: 50%;
+}
